@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# трассы демо-запусков (python run.py --trace trace.jsonl); выдержки трасс ЛР4 в results/traces/ сохраняются
+/ЛР*/trace*.jsonl
+.obsidian/
+.DS_Store
+Thumbs.db
